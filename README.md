@@ -1,6 +1,6 @@
 # Fake Store ETL Project
 
-<h6>Don't speak english? <a href="https://github.com/ivanDourado/pipeline_star_wars/blob/main/README_pt-br.md">Clique Aqui</a> para visualizar essa página em português.</h6>
+<h6>Don't speak english? <a href="https://github.com/ivanDourado/case-fake-store/blob/master/README-ptbr.md">Clique Aqui</a> para visualizar essa página em português.</h6>
 
 ## Project Description
 
