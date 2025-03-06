@@ -1,5 +1,7 @@
 # Projeto ETL da Fake Store
 
+<h6>Do not speak Portuguese? <a href="https://github.com/ivanDourado/case-fake-store/blob/master/README.md">Click Here</a> to view this page in English.</h6>
+
 ## Descrição do Projeto
 
 Este projeto tem como objetivo desenvolver um pipeline ETL (Extract, Transform, Load) que consome dados da [Fake Store API](https://fakestoreapi.com/), transforma-os e persiste as informações em um arquivo Parquet. O foco principal é extrair informações específicas sobre os usuários e seus carrinhos de compras.
